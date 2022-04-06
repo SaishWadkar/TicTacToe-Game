@@ -1,7 +1,5 @@
 # create lists of list
 
-# bug : last moment win with all places occupied
-
 def check(board,p1,p2):
 
     # 1 horizontal p1
